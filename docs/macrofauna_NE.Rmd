@@ -1,6 +1,8 @@
 ---
 title: "Macrofauna GB and GOM"
 output:
+  rmarkdown::word_document:
+    toc: true
   rmarkdown::html_document:
     toc: true
     toc_float: true

@@ -5,6 +5,7 @@ output:
     code_folding: hide
     toc: true
     toc_float: true
+  github_document:
 editor_options: 
   chunk_output_type: console
 ---
